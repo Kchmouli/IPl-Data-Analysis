@@ -84,9 +84,15 @@ Web (JSON) --> Bronze: Raw JSON ingestion --> Silver: Cleaned & structured table
 
 ---
 
+## 📊 Power BI Report
+
+You can view the interactive IPL analytics report here:
+
+[View IPL Analytics Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNTU0OTRlNjgtZGY4Ni00YWRhLTk1Y2ItYjhkYmMwZGU0YTViIiwidCI6IjIxNjJiMzEyLThkY2QtNDYyMC1iMGNlLTA1MzU1MmFlMzI5NCIsImMiOjF9&pageName=afb00c568cf044e3ebcd)
+
 ## 🔮 Future Improvements
 
-- 
+- Need to intergrate current dataset with the above report
 
 ---
 
