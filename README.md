@@ -49,9 +49,14 @@ Web (JSON) --> Bronze: Raw JSON ingestion --> Silver: Cleaned & structured table
 - Get Files and Process Pipeline
 - Pipeline executes the three notebooks
 
+![image](https://github.com/user-attachments/assets/c9e98bf8-0147-4eef-b233-abf88aaf105d)
+
+
 ### 🥉 Bronze Layer
 - Raw JSON files from the web
 - Unzipped and stored in Lakehouse
+![image](https://github.com/user-attachments/assets/e80a6533-531d-4610-899b-c1693c274bed)
+
 
 ### 🥈 Silver Layer
 - Cleaned and transformed data
@@ -68,11 +73,15 @@ Web (JSON) --> Bronze: Raw JSON ingestion --> Silver: Cleaned & structured table
   - `dimMatch`
   - `dimDismissal`
 
+![image](https://github.com/user-attachments/assets/7334fa4a-20ec-45d9-a602-c999e66d8a34)
+
+
 ---
 
 ## 📁 Project Structure
 
 ![image](https://github.com/user-attachments/assets/f688fd4b-3941-4adb-a876-8484d7b9d523)
+![image](https://github.com/user-attachments/assets/52ba4f30-f719-4ff2-b95e-5c127b1e3f4e)
 
 ---
 
